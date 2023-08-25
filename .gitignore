@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Poetry
+.poetry/
+poetry.lock
+
+# Virtual environment
+.venv/
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Compiled C extensions
+*.so
+
+# Test directories
+__tests__/
+tests/
